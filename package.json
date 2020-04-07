@@ -57,5 +57,8 @@
   },
   "ember": {
     "edition": "octane"
+  },
+  "dependencies": {
+    "d3": "^3.5.17"
   }
 }
